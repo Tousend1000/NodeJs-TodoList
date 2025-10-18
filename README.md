@@ -73,7 +73,7 @@ This is a full-stack **To-Do List application** built with **Node.js**, **Expres
 
 1. **Clone the repository**
    ```bash
-   git clone git@github.com:Tousend1000/ToDoList.git
+   git clone git@github.com:Tousend1000/NodeJs-TodoList.git
    cd ToDoList
    ```
 2. **Install dependencies**
